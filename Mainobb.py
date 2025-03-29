@@ -21,7 +21,7 @@ def display_header():
     print(colored("║     MOD MENU TOOL  |  CHOOSE AN OPTION      ║", "yellow"))
     print(colored("╚════════════════════════════════════════════════════╝", "light_grey"))
     print(colored(f"🔹 Date: {date} | Time: {time_now}", "light_grey", attrs=["bold"]))
-    print(colored("🔹 Created by: @zyloxx", "light_grey", attrs=["bold"]))
+    print(colored("🔹 Created by: @zyloxx,@AtharvaXd27", "light_grey", attrs=["bold"]))
     print("")
 
 # ───────────────────────────────────────────
